@@ -1,0 +1,312 @@
+.header{
+    background: rgb(247, 154, 131);
+    width: 100%;
+    height: 113px;
+    border-bottom: 1px solid white;
+    display: flex;
+    position: fixed;
+    z-index: 1000;
+}
+body{
+    margin: 0;
+}
+.shirley{
+    width: 100%;
+    height: 728px;
+}
+.middle{
+    width: 100%;
+    height: 728px;
+    margin-top: -4px;
+}
+.last{
+    width: 100%;
+    height: 728px;
+    margin-top: -4px;
+}
+.footer{
+    background: #3e3e3e;
+    width: 100%;
+    height: 126px;
+    margin-top: -4px;
+}
+.logo{
+    height: 76px;
+    margin-left: 27px;
+    margin-top: 17px;
+    width: 85px;
+}
+.left-topside{
+    width: 50%;
+    height: 113px;
+    float: left;
+}
+.right-topside{
+    width: 50%;
+    height: 113px;
+    float: left;
+    margin-top: 44px;
+    margin-left: 293px;    
+}
+.products{
+    font-size: 22px;
+    font-family: 'Korolev Heavy', sans-serif;
+    color: white;
+    text-decoration: none;
+}
+.recipies{
+    font-size: 22px;
+    font-family: 'Korolev Heavy', sans-serif;
+    color: white;
+    margin-left: 27px;
+    text-decoration: none;
+}
+.stores{
+    font-size: 22px;
+    font-family: 'Korolev Heavy', sans-serif;
+    color: white;
+    margin-left: 33px;
+    text-decoration: none;
+    margin-right: 50px;
+}
+.social{
+    width: 29px;
+}
+
+
+.first-content{
+    position: relative;
+    width: 100%;
+}
+.first-content img{
+    width: 100%;
+}
+.first-text{
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    color: white;
+    font-size: 4.5vw;
+    font-weight: 800;
+    font-family: 'Korolev Heavy', sans-serif;
+    line-height: 75px;
+    margin-top: 163px;
+    margin-left: 129px;
+}
+
+.first-button{
+    position: relative;
+    width: 100%;
+}
+.first-button img{
+    width: 100%;
+}
+
+.recipies-tag{
+    position: absolute;
+    margin-top: -307px;
+    color: white;
+    background: transparent;
+    border-radius: 30px;
+    font-family: 'Korolev Heavy', sans-serif;
+    font-size: 18px;
+    height: 40px;
+    width: 157px;
+    border: 2px solid;
+    margin-left: 140px;
+}
+
+
+.second-content{
+    position: relative;
+    width: 100%;
+}
+.second-content img{
+    width: 100%;
+}
+.second-text{
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    font-size: 36px;
+    font-family: 'Korolev Heavy', sans-serif;
+    color: white;
+    margin-top: 219px;
+    margin-left: 649px;
+    font-size: 35px;
+}
+.second-textp{
+    position: relative;
+    width: 100%;
+}
+.second-textp img{
+    width: 100%;
+}
+.second-txtp{
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    margin-top: -409px;
+    color: white;
+    margin-left: 537px;
+    font-family: 'Korolev Heavy', sans-serif;
+}
+.second-button{
+    position: relative;
+    width: 100%;
+}
+.second-button img{
+    width: 100%;
+}
+.view-recipies{
+    position: absolute;
+    font-family: 'Korolev Heavy', sans-serif;
+    color: white;
+    top: 50px;
+    left: 50px;
+    margin-top: -360px;
+    margin-left: 627px;
+    background: transparent;
+    font-size: 19px;
+    border-radius: 30px;
+    height: 37px;
+    width: 167px;
+    border: 2px solid;
+}
+.second-bgm{
+    position: relative;
+    width: 100%;
+}
+.second-bgm img{
+    width: 100%;
+}
+.fill-button{
+    position: absolute;
+    width: 683px;
+    height: 193px;
+    border-radius: 100px;
+    background-color: rgba(10, 91, 43, 0.8);
+    border: none;
+    margin-top: -442px;
+    margin-left: 417px;
+}
+
+
+.third-content{
+    position: relative;
+    width: 100%;
+}
+.third-content img{
+    width: 100%;
+}
+.third-text{
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    font-size: 36px;
+    font-family: 'Korolev Heavy', sans-serif;
+    color: white;
+    margin-top: 220px;
+    margin-left: 595px;
+    font-size: 35px;
+}
+.third-textp{
+    position: relative;
+    width: 100%;
+}
+.third-textp img{
+    width: 100%;
+}
+.third-txtp{
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    margin-top: -413px;
+    color: white;
+    margin-left: 484px;
+    font-family: 'Korolev Heavy', sans-serif;
+}
+.third-button{
+    position: relative;
+    width: 100%;
+}
+.third-button img{
+    width: 100%;
+}
+.find-product{
+    position: absolute;
+    font-family: 'Korolev Heavy', sans-serif;
+    color: white;
+    top: 50px;
+    left: 50px;
+    margin-top: 357px;
+    margin-left: 616px;
+    background: transparent;
+    font-size: 19px;
+    border-radius: 30px;
+    height: 36px;
+    width: 187px;
+    border: 2px solid;
+}
+.third-bgm{
+    position: relative;
+    width: 100%;
+}
+.third-bgm img{
+    width: 100%;
+}
+.fill-content{
+    position: absolute;
+    width: 683px;
+    height: 193px;
+    border-radius: 100px;
+    background-color: rgba(10, 91, 43, 0.8);
+    border: none;
+    margin-top: -442px;
+    margin-left: 417px;
+}
+
+
+.privacy{
+    float: left;
+    margin-left: 339px;
+}
+.rights{
+    float: left;
+    margin-left: 28px;
+}
+.information{
+    float: left;
+    margin-left: 29px;
+}
+.terms{
+    float: left;
+    margin-left: 30px;
+}
+.accesibility{
+    float: left;
+    margin-left: 28px;
+}
+.contact{
+    float: left;
+    margin-left: 28px;
+}
+.faq{
+    float: left;
+    margin-left: 28px;
+}
+.careers{
+    float: left;
+    margin-left: 28px;
+}
+.footer{
+    color: white;
+    font-size: 12px;
+    font-family: 'Korolev Heavy', sans-serif;
+}
+.note{
+    float: left;
+    margin-left: 526px;
+    font-size: 11px;
+    margin-top: 8px;
+}
